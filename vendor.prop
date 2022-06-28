@@ -293,8 +293,6 @@ ro.boot.product.vendor.sku=lahaina
 # Storage
 ro.incremental.enable=yes
 
-# Thermal
-vendor.sys.thermal.data.path=/data/vendor/thermal/
 
 # USB
 vendor.usb.diag.func.name=ffs
